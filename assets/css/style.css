@@ -12,11 +12,13 @@ h1 {
     font-size: 6rem;
 }
 p {
-    font-size: 2rem;
+    font-size: 1.3rem;
 }
-
+.txt-primary {
+    color: var(--primary);
+}
 .main_text {
-  
+    font-size: 2rem;
 }
 .main_img {
     background-image: url(../img/laptop-asset.png);
@@ -35,7 +37,16 @@ p {
     border-radius: 50%;
 }
 .nav_text {
-    font-size: 1.3rem;
     margin: .8rem;
     font-weight: bold;
+}
+.nav_boton {
+    padding: .2rem 1rem;
+}
+.main_boton {
+    width: 29rem;
+    padding: .7rem 0;
+}
+.footer {
+    height: 5.3rem;
 }
