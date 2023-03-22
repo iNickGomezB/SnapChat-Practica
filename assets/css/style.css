@@ -26,6 +26,9 @@ p {
     width: 65rem;
     height: 40rem;
 }
+.navbar {
+    background-color: var(--primary);
+}
 .nav_icons {
     height: 8rem;
     width: 50rem;
@@ -49,4 +52,15 @@ p {
 }
 .footer {
     height: 5.3rem;
+}
+.footer_main-text {
+    height: 25.5rem;
+    background-color: #F8F9FB;
+}
+.footer_secondary-text {
+    height: 5.3rem;
+    background-color: #262626;
+}
+.main {
+    margin: 10rem 0 0;
 }
